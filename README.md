@@ -1,5 +1,13 @@
 # BlenderProjects
 
+Apples
 
+![GIF](Render/jabuke.png "Apples")
 
-![GIF](Render/ "Blinn-Phong light model")
+Sharky
+
+![GIF](Render/Sharky.png "Sharky")
+
+Car
+
+![GIF](Render/auto.png "Car")
